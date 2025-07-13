@@ -1,50 +1,95 @@
-# Bootcamp_Microsoft_50_Anos-Prompts_Inteligentes
-Microsoft 50 Anos - Prompts Inteligentes
+# Bootcamp Microsoft 50 Anos - Prompts Inteligentes
 
+![DIO Logo](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)  
+![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1200px-Microsoft_logo.svg.png)
 
-Bem-vindo ao repositório do projeto "Bootcamp_Microsoft_50_Anos---Prompts_Inteligentes"! Este espaço foi criado para centralizar os materiais e discussões sobre as tendências emergentes no mercado de Inteligência Artificial, com foco em como a IA está moldando o futuro dos negócios e da tecnologia.
+Repositório dedicado ao **Bootcamp Microsoft 50 Anos: Prompts Inteligentes** oferecido pela Digital Innovation One (DIO) em parceria com a Microsoft.
 
-## Sobre o Projeto
+## 🌟 Visão Geral
 
-Este repositório serve como um hub para explorar as inovações em IA, incluindo IA Generativa, IA Explicável (XAI), IA Embarcada (Edge AI), Aprendizado Federado e a sustentabilidade na IA. Nosso objetivo é fornecer insights, exemplos práticos e discussões sobre o impacto dessas tecnologias em diversos setores.
+Este bootcamp celebra os 50 anos da Microsoft com foco no desenvolvimento de habilidades em criação de prompts inteligentes para IA generativa, preparando profissionais para a nova era da interação homem-máquina.
 
-## Conteúdo Principal
+## 📚 Conteúdo Programático
 
-O conteúdo deste projeto é embasado em análises aprofundadas sobre as seguintes tendências de IA:
+### Módulos Principais:
 
-### 1. IA Generativa: A Nova Fronteira da Criatividade e Automação
-Exploramos como modelos de IA estão revolucionando a criação de conteúdo, design, atendimento ao cliente e até mesmo transformando o mercado de trabalho.
+#### 🧠 Fundamentos de IA Generativa
+- Introdução a modelos de linguagem
+- Arquitetura de sistemas de IA conversacional
+- Ética e responsabilidade no uso de IA
 
-### 2. IA Explicável (XAI): Transparência e Confiança nos Algoritmos
-Discutimos a importância da XAI para garantir a confiabilidade, mitigar vieses e assegurar a conformidade regulatória em sistemas de IA.
+#### ✍️ Técnicas de Prompt Engineering
+- Estrutura básica de prompts eficazes
+- Técnicas avançadas (few-shot, chain-of-thought)
+- Padrões para diferentes tipos de tarefas
 
-### 3. IA Embarcada (Edge AI): Processamento no Local
-Analisamos como a IA processada diretamente em dispositivos ("na borda") está impactando veículos autônomos, cidades inteligentes, saúde e IoT industrial.
+#### 🛠️ Ferramentas Microsoft
+- Azure OpenAI Service
+- Copilot Studio
+- Integração com Power Platform
 
-### 4. Aprendizado de Máquina Federado (Federated Learning): Privacidade e Descentralização
-Detalhes sobre como o treinamento de modelos de IA em dados descentralizados está garantindo privacidade, segurança e acessibilidade em grande escala.
+#### 🚀 Aplicações Práticas
+- Desenvolvimento de assistentes virtuais
+- Automação de processos com IA
+- Casos de uso empresariais
 
-### 5. Sustentabilidade e IA: Equilibrando o Poder com a Responsabilidade
-Abordamos o desafio do consumo de energia da IA e as soluções para tornar a inteligência artificial uma força mais sustentável.
+## 💻 Tecnologias e Ferramentas
 
-## Recursos Adicionais
+- **Plataformas**: Azure AI Studio, Microsoft Copilot
+- **Ferramentas**: Prompt Flow, Semantic Kernel
+- **Linguagens**: Python (para integrações avançadas)
+- **Frameworks**: LangChain (conceitos básicos)
 
-* **[Link para o áudio do podcast]**: Um episódio completo explorando em detalhes as tendências mencionadas.
-* **Textos de apoio**: Materiais escritos com mais informações e exemplos sobre cada tema.
-* **Discussões**: Espaço para debates e troca de ideias sobre o futuro da IA.
+## 📂 Estrutura do Repositório
 
-## Como Contribuir
+```
+Bootcamp_Microsoft_50_Anos-Prompts_Inteligentes/
+├── exemplos/               # Coleção de prompts exemplares
+│   ├── basicos/            # Exemplos fundamentais
+│   ├── avancados/          # Técnicas complexas
+│   └── setoriais/          # Aplicações por área
+├── laboratorios/           # Exercícios práticos
+│   ├── iniciante/          # Desafios iniciais
+│   └── avançado/           # Casos complexos
+├── projetos/               # Projetos completos
+├── cheatsheets/            # Guias rápidos
+└── recursos/               # Materiais complementares
+```
 
-Sua participação é muito bem-vinda! Se você tem insights, exemplos, ou quer debater sobre as tendências de IA, sinta-se à vontade para:
+## 🚀 Como Começar
 
-* Abrir `issues` para sugestões de tópicos ou perguntas.
-* Enviar `pull requests` com contribuições para o conteúdo.
-* Participar das discussões.
+1. Clone o repositório:
+```bash
+git clone https://github.com/erica_bonadio/Bootcamp_Microsoft_50_Anos-Prompts_Inteligentes.git
+```
 
-## Contato
+2. Acesse o Azure AI Studio:
+```bash
+https://ai.azure.com
+```
 
-Para dúvidas ou mais informações, entre em contato através dos canais do Bootcamp Microsoft 50 Anos.
+3. Explore os exemplos na pasta `/exemplos` para entender padrões eficazes.
+
+## 🔍 Recursos Adicionais
+
+- [Documentação Oficial Azure AI](https://learn.microsoft.com/pt-br/azure/ai-services/)
+- [Galeria de Prompts da Microsoft](https://promptgallery.microsoft.com)
+- [Playground Azure OpenAI](https://oai.azure.com/playground)
+
+## 🤝 Contribuições
+
+Sua contribuição é bem-vinda! Siga estes passos:
+
+1. Reporte issues com exemplos de prompts problemáticos
+2. Sugira novas técnicas na discussão
+3. Envie pull requests com melhorias nos exemplos
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
-**Com o POD-IA, seu mergulho semanal no universo da inteligência artificial!**
+Desenvolvido com ❤️ por Érica Bonadio como parte do Bootcamp Microsoft 50 Anos da DIO.  
+📅 Atualizado em: 13/07/2025  
+🔗 Conecte-se: [LinkedIn]() | [Portfólio]()
